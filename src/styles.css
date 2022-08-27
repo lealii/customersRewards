@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: 60px 60px 60px 60px;
+  grid-template-rows: 60px 60px 60px 60px;
+}
+
+.number {
+  height: 50px;
+  width: 50px;
+}
